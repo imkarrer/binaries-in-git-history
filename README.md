@@ -44,5 +44,8 @@ $ du -sch .[!.]* *
 2.4M    total
 ```
 
+## Update the image
+
+![Neat stache!](babyhat.jpg)
 
 
