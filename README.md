@@ -31,3 +31,7 @@ $ du -sch .[!.]* *
 4.0K    README.md
 104K    total
 ```
+
+## Add an image
+
+![Neat hat!](babyhat.jpg)
