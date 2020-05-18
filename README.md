@@ -48,4 +48,13 @@ $ du -sch .[!.]* *
 
 ![Neat stache!](babyhat.jpg)
 
+```
+$ du -sch .[!.]* *
+2.5M    .git
+4.0K    README.md
+1.3M    babyhat.jpg
+3.8M    total
+```
+
+
 
