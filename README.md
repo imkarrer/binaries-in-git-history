@@ -35,3 +35,14 @@ $ du -sch .[!.]* *
 ## Add an image
 
 ![Neat hat!](babyhat.jpg)
+
+```
+$ du -sch .[!.]* *
+1.2M    .git
+4.0K    README.md
+1.2M    babyhat.jpg
+2.4M    total
+```
+
+
+
