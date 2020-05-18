@@ -23,3 +23,11 @@ $ du -sch .[!.]* *
 But once we track it and add content...
 
 Note: For those keeping score an additional commit will be made to log the size after `git gc` has executed.
+
+
+```
+$ du -sch .[!.]* *
+100K    .git
+4.0K    README.md
+104K    total
+```
