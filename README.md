@@ -56,5 +56,12 @@ $ du -sch .[!.]* *
 3.8M    total
 ```
 
+## Delete it
 
+```
+$ du -sch .[!.]* *
+2.5M    .git  # Both copies are still in history!
+4.0K    README.md
+2.5M    total
+```
 
